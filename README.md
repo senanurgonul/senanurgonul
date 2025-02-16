@@ -12,14 +12,8 @@
 </a>
 </p>
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=senanurgonul&show_icons=true&theme=default" alt="senanurgonul" />
-</p>
-
-### 🛠️ Most Used Languages:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senanurgonul&langs_count=6&layout=donut" alt="senanurgonul" />
-</p>
-
-
+### 📊 GitHub Stats & Most Used Languages:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senanurgonul&show_icons=true&theme=default" alt="senanurgonul" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senanurgonul&layout=compact" alt="senanurgonul" />
+</div>
