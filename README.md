@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sena</h1>
-<h3 align="center">Software Engineering Student & AI Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senanurgonul&label=Profile%20Views&color=0e75b6&style=flat" alt="senanurgonul" /> </p>
+<h3 align="center">Software Engineering Student</h3>
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/senanurgonul?tab=repositories)
 
@@ -9,13 +7,19 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/senanurgonul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/senanurgonul" target="_blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="40" width="40" />
+</a>
+</p>
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=senanurgonul&show_icons=true&theme=default" alt="senanurgonul" />
 </p>
 
 ### 🛠️ Most Used Languages:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senanurgonul&show_icons=true&locale=en&layout=compact" alt="senanurgonul" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senanurgonul&langs_count=6&layout=donut" alt="senanurgonul" />
 </p>
-
 
 
