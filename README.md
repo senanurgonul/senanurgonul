@@ -13,13 +13,7 @@
 </p>
 
 ### 📊 GitHub Stats & Most Used Languages:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=senanurgonul&show_icons=true&theme=default" alt="senanurgonul GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senanurgonul&layout=compact" alt="senanurgonul Most Used Languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=senanurgonul&show_icons=true&theme=default" alt="senanurgonul GitHub Stats"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senanurgonul&layout=compact" alt="senanurgonul Most Used Languages"/>
+</div>
