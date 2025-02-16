@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sena</h1>
+<h3 align="center">Software Engineering Student & AI Enthusiast</h3>
 
-<!--
-**senanurgonul/senanurgonul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senanurgonul&label=Profile%20Views&color=0e75b6&style=flat" alt="senanurgonul" /> </p>
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/senanurgonul?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **[senanur-gonul@hotmail.com](mailto:senanur-gonul@hotmail.com)**
+
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/senanurgonul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
+
+### 🛠️ Most Used Languages:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senanurgonul&show_icons=true&locale=en&layout=compact" alt="senanurgonul" />
+</p>
+
+
+
