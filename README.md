@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sena</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Enthusiastic Software Engineer!</h3>
 
+- 👩🏻‍💻 I continue my technology journey as a Software Engineer.  
+- 🤖 I am currently working on Artificial Intelligence (AI) and Data Science topics.
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/senanurgonul?tab=repositories)
-
 - 📫 How to reach me **[senanur-gonul@hotmail.com](mailto:senanur-gonul@hotmail.com)**
 
 ### 🔗 Connect with me:
