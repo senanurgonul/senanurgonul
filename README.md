@@ -3,6 +3,8 @@
 
 
 
+
+
 - 👩🏻‍💻 I continue my technology journey as a Software Engineer.  
 - 🤖 I am currently working on Artificial Intelligence (AI) and Data Science topics.
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/senanurgonul?tab=repositories)
